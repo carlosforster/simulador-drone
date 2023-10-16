@@ -1,0 +1,5 @@
+Model Download Metadata File
+============================
+Model downloaded by: ' ' (carlosforster@gmail.com)
+S2 base point: s = 0.015900, t = 0.711975, face = 4.000000, up = 0.000000
+Geographic base point: 42.375824, -71.091375 altitude 0.000000
